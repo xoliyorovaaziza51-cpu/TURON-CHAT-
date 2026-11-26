@@ -1,0 +1,10 @@
+{
+  "name": "Remix TURON CHAT",
+  "description": "O\u0027zbek tilidagi zamonaviy ijtimoiy ovozli suhbat, xonalar, sovg\u0027alar, PK musobaqalar va agentliklar platformasi.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
